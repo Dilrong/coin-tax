@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#0B1221"/>
+  <rect x="32" y="32" width="1136" height="566" rx="32" fill="url(#g)" opacity="0.1" stroke="#1F2937" stroke-width="2"/>
+  <rect x="72" y="120" width="1056" height="390" rx="28" fill="#0F172A" opacity="0.8" stroke="#1F2937" stroke-width="2"/>
+  <text x="120" y="210" fill="#E5E7EB" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="44" font-weight="700">코인 세금 계산기</text>
+  <text x="120" y="260" fill="#9CA3AF" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="24" font-weight="500">CSV 업로드로 예상 세금 · 과세표준 · 세후 소득을 한눈에</text>
+  <rect x="120" y="300" width="520" height="190" rx="16" fill="#111827" stroke="#1F2937" stroke-width="2"/>
+  <text x="150" y="340" fill="#9CA3AF" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="18">예상 세금</text>
+  <text x="150" y="385" fill="#E5E7EB" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="48" font-weight="700">₩ 1,234,560</text>
+  <text x="150" y="430" fill="#10B981" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="18">기본공제 2,500,000원 · 세율 22%</text>
+  <rect x="680" y="300" width="300" height="190" rx="16" fill="#111827" stroke="#1F2937" stroke-width="2"/>
+  <text x="720" y="340" fill="#9CA3AF" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="18">과세 소득</text>
+  <text x="720" y="385" fill="#E5E7EB" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="34" font-weight="700">₩ 5,612,000</text>
+  <text x="720" y="425" fill="#9CA3AF" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="16">실현이익 - 기본공제</text>
+  <text x="120" y="520" fill="#6EE7B7" font-family="Geist, 'Inter', 'Pretendard', 'Segoe UI', sans-serif" font-size="18">cointax.vercel.com</text>
